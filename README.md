@@ -24,3 +24,8 @@ git checkout main
 
 
 ## This is a new SetUpBranch
+
+
+# Naming Conventions:
+## BEM (Block Element Modifier) Approach 
+https://getbem.com/
