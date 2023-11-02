@@ -19,6 +19,8 @@ git push
 <!-- to create a branch -->
 git checkout -b initialSetUp
 
+<!-- Switching Branch -->
+git checkout main
 
 
 ## This is a new SetUpBranch
